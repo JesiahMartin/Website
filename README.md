@@ -1,3 +1,3 @@
 # JesiahMartin
 
-![Highly Available Web Systemm Design](./websiteSystemDesign)
+![Highly Available Web System Design](./websiteSystemDesign.png)
